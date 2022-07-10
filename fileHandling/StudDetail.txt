@@ -1,0 +1,7 @@
+
+StRe_No 	 St_Name 	 St_age 
+PS/00/14 	 Saduni               		 14  
+PS/00/78 	 Pabasara             		 12  
+PS/00/45 	 Erandi               		 23  
+PS/00/56 	 Venudi               		 25  
+PS/00/46 	 Umasha               		 13  
